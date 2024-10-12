@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soti", "ConsoleApp1\Soti.csproj", "{2C1B0833-5F56-4015-A90D-0596EFAB55DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soti", "soti\Soti.csproj", "{2C1B0833-5F56-4015-A90D-0596EFAB55DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
